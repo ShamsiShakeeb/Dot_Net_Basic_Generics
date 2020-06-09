@@ -1,0 +1,6 @@
+D:\DotNetProject\Dot_Net_Generics_Practise\Dot_Net_Generics_Practise\bin\Debug\Dot_Net_Generics_Practise.exe.config
+D:\DotNetProject\Dot_Net_Generics_Practise\Dot_Net_Generics_Practise\bin\Debug\Dot_Net_Generics_Practise.exe
+D:\DotNetProject\Dot_Net_Generics_Practise\Dot_Net_Generics_Practise\bin\Debug\Dot_Net_Generics_Practise.pdb
+D:\DotNetProject\Dot_Net_Generics_Practise\Dot_Net_Generics_Practise\obj\Debug\Dot_Net_Generics_Practise.csprojAssemblyReference.cache
+D:\DotNetProject\Dot_Net_Generics_Practise\Dot_Net_Generics_Practise\obj\Debug\Dot_Net_Generics_Practise.exe
+D:\DotNetProject\Dot_Net_Generics_Practise\Dot_Net_Generics_Practise\obj\Debug\Dot_Net_Generics_Practise.pdb
